@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: #93c5fd;
+}
+
+.capitals-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: white;
+  height: 300px;
+  width: 600px;
+}
+
+.dropdown {
+  height: 30px;
+  width: 150px;
+  border-radius: 3px;
+  padding: 5px;
+}
